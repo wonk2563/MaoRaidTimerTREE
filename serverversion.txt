@@ -1,5 +1,5 @@
 1.1.1
-MaoCounter
+MaoTimeCounter
 ．新增155龍捲風計時器
 ．新增守護者稱號計時器
 ．新增領悟時分計時器
@@ -9,4 +9,4 @@ MaoCounter
 ．新增檢查更新功能
 ．調整程式Icon，使其在黑色主題下更顯眼
 ．調整程式名稱
-https://github.com/wonk2563/MaoRaidTimerTREE/raw/main/MaoCounter.zip
+https://github.com/wonk2563/MaoRaidTimerTREE/raw/main/MaoTimeCounter.zip
