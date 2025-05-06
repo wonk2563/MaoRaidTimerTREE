@@ -1,7 +1,5 @@
-1.1.7
+1.1.8
 MaoTimeCounter
-．更新星辰預言自動偵測資料
-．修正12襲擊控場選擇NP會閃退的問題
-．調整程式讀取資料的方式
-※此次更新將會重置計時器設定
-https://github.com/wonk2563/MaoRaidTimerTREE/raw/main/MaoTimeCounter.zip
+．將軟體完全託管至 Github
+※此次更新不會重置計時器設定
+https://github.com/wonk2563/Raid_ControlCounter/releases/download/Release/MaoTimeCounter_updateData.zip
